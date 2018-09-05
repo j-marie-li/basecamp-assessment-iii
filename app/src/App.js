@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div style={{height: '300px'}}>
     <Layout style={{background: 'url(https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/38799345_10156802692698109_7296636341930950656_o.jpg?_nc_cat=0&efg=eyJpIjoidCJ9&oh=ea96206c8db75a7792bcf98d2a27a9af&oe=5BF964D1) center / cover'}}>
-        <Header className = "header-color" transparent title="A Place for all your Wedding Needs" style={{color: 'white'}}>
+        <Header className = "header-color" transparent title="The Place for all your Wedding Needs" style={{color: 'white'}}>
             
             <Navigation>
                 <Link to="/photographers">Photographers </Link>

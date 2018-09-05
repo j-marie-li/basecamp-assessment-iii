@@ -13,11 +13,6 @@ margin:auto;
    margin: auto;
 }
 
-.cute-couple{
-  height: 210px;
-  padding-top: 0em;
-}
-
 .banner-text{
   background-color: black;
   opacity:.8;
@@ -26,9 +21,9 @@ margin:auto;
   border-radius:10px;
 }
 .banner-text h1 {
-  font-size: 66px;
+  font-size: 62px;
   font-weight: bold;
-  color: white;
+  color:white;
   text-align: center;
 }
 
@@ -40,9 +35,13 @@ margin:auto;
 
 .banner-text p{
   color: white;
-  font-size: 20px;
+  font-size: 30px;
   padding: 1em;
   text-align: center;
+}
+.banner-text a{
+  color: white;
+text-decoration: none;  
 }
 
 .social-links{
@@ -53,7 +52,7 @@ margin:auto;
   
 }
 .social-links i{
-  color: white;
-  font-size: 5em;
+  color:white;
+  font-size: 4em;
   padding:8px;
 }

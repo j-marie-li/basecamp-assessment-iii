@@ -9,9 +9,11 @@ class Landing extends Component{
  <Cell col={12}>
 
 <div className="banner-text">
-<h1>Create Your Dream Wedding</h1>
+ <h1>Create Your Dream Wedding</h1> 
 <hr/>
-<p>| Photographers | Venues | Catering | Planners |</p>
+<p><a href="https://www.linkedin.com/in/jasmine-li-7012a564/" rel="noopener noreferrer" target="_blank">| Photographers </a> <a href ="https://www.linkedin.com" rel="noopener noreferrer" target="_blank">| Venues |</a> <a href ="https://github.com" rel="noopener noreferrer" target="_blank"> Planners </a>
+<a href ="https://github.com" rel="noopener noreferrer" target="_blank">| Catering |</a></p>
+
 <div className="social-links">
 
 {/* LinkedIn */}
